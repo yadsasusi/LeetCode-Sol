@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://walkccc.github.io/LeetCode/"><img src="https://i.imgur.com/IsS5xkZ.png" width="150" title="LeetCode" alt="LeetCode"></a>
+<a href="https://chaganti-reddy.github.io/LeetCode-Sol/"><img src="https://i.imgur.com/IsS5xkZ.png" width="150" title="LeetCode" alt="LeetCode"></a>
 <h1>LeetCode Solutions</h1>
-<span>💡 <i>Solutions to <a href="https://leetcode.com/problemset/all/">LeetCode</a> in C++ and Python. This repository aims to provide code with <strong>good readability</strong> and <strong>consistent style</strong> over various topics and embraces new standards.</i></span>
+<span>💡 <i>Solutions to <a href="https://leetcode.com/problemset/all/">LeetCode</a> in C++, Java and Python. This repository aims to provide code with <strong>good readability</strong> and <strong>consistent style</strong> over various topics and embraces new standards.</i></span>
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/Solved-1565/2197%20=%2071.23%25-blue.svg?style=flat-square" />
@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-See the built page here: [LeetCode Solutions](https://walkccc.github.io/LeetCode/).
+See the built page here: [LeetCode Solutions](https://chaganti-reddy.github.io/LeetCode-Sol/).
 
 ## Coding Style
 
@@ -23,6 +23,11 @@ Also, I don't squeeze everything in a single line just to save vertical rows sin
 
 Here's a more detailed [style guide](https://github.com/Chaganti-Reddy/LeetCode-Sol/blob/main/STYLEGUIDE.md).
 
+## Formatting
+
+- **C++** code is formatted by [clang-format](https://clang.llvm.org/docs/ClangFormat.html) following the [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html#Spaces_vs._Tabs). You can see the configuration [here](https://github.com/walkccc/LeetCode/blob/main/.clang-format).
+- **Java** code is formatted by [clang-format](https://clang.llvm.org/docs/ClangFormat.html) following the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
+- **Python** code is formatted by [autopep8](https://pypi.org/project/autopep8/) following [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) except passing the argument `--indent-size=2` for a better viewing experience in mobile devices.
 ## More Information
 
 Hosted on Feb 23, 2019.
