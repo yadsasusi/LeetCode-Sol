@@ -34,5 +34,5 @@ For more information, please visit my [**GitHub**](https://github.com/Chaganti-R
 Licensed under the MIT License, Copyright © 2019-2022 [Chaganti Reddy](https://github.com/Chaganti-Reddy/LeetCode-Sol/blob/main/LICENSE).
 
 <div align="center">
-  <sub>Assembled with ❤️ iIndia.</sub>
+  <sub>Assembled with ❤️ India.</sub>
 </div>
